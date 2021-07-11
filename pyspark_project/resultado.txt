@@ -5,6 +5,8 @@
 ('to', 2144)
 ('my', 1631)
 ('a', 1394)
-('', 1186)
 ('in', 1129)
 ('was', 994)
+('that', 986)
+
+*exclui o ('', 1186) pois o mesmo nao seria uma palavra ou letra
